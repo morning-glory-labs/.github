@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Morning Glory — Intelligence Beyond Boundaries</title>
+  <desc id="desc">A deep navy banner with violet and gold molecular orbital-inspired forms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080f2e"/><stop offset=".58" stop-color="#10153b"/><stop offset="1" stop-color="#1c1550"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7e63fc" stop-opacity=".30"/><stop offset="1" stop-color="#7e63fc" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff0ba"/><stop offset=".48" stop-color="#ffc45e"/><stop offset="1" stop-color="#d88a45"/></linearGradient>
+    <linearGradient id="violet" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ab96ff"/><stop offset="1" stop-color="#5637dd"/></linearGradient>
+  </defs>
+  <rect width="1600" height="560" rx="18" fill="url(#bg)"/>
+  <circle cx="1195" cy="270" r="350" fill="url(#halo)"/>
+  <g fill="none" stroke="#a69cff" stroke-width="1" opacity=".13"><path d="M60 80H1540M60 480H1540"/><path d="M80 45V515M1520 45V515"/><circle cx="1193" cy="280" r="210"/><circle cx="1193" cy="280" r="155"/></g>
+  <g fill="#c8c0ff" opacity=".55"><circle cx="95" cy="85" r="2"/><circle cx="465" cy="69" r="2"/><circle cx="1004" cy="84" r="2"/><circle cx="1453" cy="126" r="2"/><circle cx="1532" cy="398" r="2"/><circle cx="945" cy="465" r="2"/><circle cx="97" cy="478" r="2"/></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="100" y="138" fill="#c1b8ff" font-size="21" font-weight="700" letter-spacing="6">MORNING GLORY LABS</text>
+    <rect x="100" y="161" width="82" height="3" rx="1.5" fill="url(#gold)"/>
+    <text x="95" y="252" fill="#ffffff" font-size="70" font-weight="700" letter-spacing="1">Intelligence</text>
+    <text x="95" y="336" fill="#ffffff" font-size="70" font-weight="700" letter-spacing="1">Beyond Boundaries<tspan fill="#ffc661">.</tspan></text>
+    <text x="100" y="395" fill="#c9c9e7" font-size="22" letter-spacing=".2">Where artificial intelligence meets scientific discovery.</text>
+    <text x="100" y="468" fill="#f4c66f" font-size="17" font-weight="700" letter-spacing="3">AI  /  SCIENTIFIC COMPUTING  /  QUANTUM CHEMISTRY</text>
+  </g>
+  <g transform="translate(1193 278)">
+    <g fill="none" stroke="#c5b9ff" stroke-width="1.5" opacity=".34"><ellipse rx="235" ry="92" transform="rotate(-25)"/><ellipse rx="235" ry="92" transform="rotate(35)"/><ellipse rx="235" ry="92" transform="rotate(95)"/></g>
+    <g opacity=".82"><path d="M0 0 C-85 -62 -107 -168 -34 -189 C30 -207 69 -95 0 0Z" fill="url(#violet)"/><path d="M0 0 C85 62 107 168 34 189 C-30 207 -69 95 0 0Z" fill="url(#gold)" opacity=".86"/><path d="M0 0 C-67 24 -157 -7 -148 -73 C-140 -134 -39 -118 0 0Z" fill="url(#gold)" opacity=".45"/><path d="M0 0 C67 -24 157 7 148 73 C140 134 39 118 0 0Z" fill="url(#violet)" opacity=".60"/></g>
+    <circle r="41" fill="#ffc769" opacity=".12"/><circle r="15" fill="#fff0bd"/><circle r="7" fill="#ffbb4c"/>
+    <g fill="#ffe4a1"><circle cx="-197" cy="18" r="4"/><circle cx="184" cy="-94" r="4"/><circle cx="45" cy="205" r="4"/></g>
+  </g>
+</svg>
