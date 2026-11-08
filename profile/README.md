@@ -9,11 +9,13 @@
 **Intelligence Beyond Boundaries.** 智能无界，探索未知。<br>
 *From Artificial Intelligence to Scientific Discovery.* 从人工智能到科学发现。
 
-[MolAstria](https://molastria.com) · [About](https://molastria.com/about/) · Toronto, Canada
+[MolAstria](https://molastria.com/?lang=en) · [About](#about--关于) · Toronto, Canada
 
 </div>
 
 ---
+
+## About · 关于
 
 Morning Glory is a Toronto-based emerging technology brand being developed under **16513778 Canada Inc.**, a Canadian federal corporation, with a focus on AI applications, intelligent automation, data analytics and scientific computing.
 
@@ -23,7 +25,7 @@ Morning Glory（晨光科技 / 晨光实验室）是 16513778 Canada Inc.（加�
 
 ## What is live today · 已上线
 
-### [MolAstria](https://molastria.com) — AI & Scientific Computing
+### [MolAstria](https://molastria.com/?lang=en) — AI & Scientific Computing
 
 A navigator for computational-chemistry research: unified resource search, a resource relationship network, a 20-chapter bilingual handbook, database catalog, journal submission guides, a comparison of 27 scientific foundation models, an AI lab, a preprint radar, a playground with a browser-based quantum-chemistry calculator, and Windows/macOS desktop apps.
 
