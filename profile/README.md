@@ -27,11 +27,15 @@ Morning Glory（阿斯特赖亚科技）是 16513778 Canada Inc.（加拿大联�
 
 ### [MolAstria](https://molastria.com/?lang=en) — AI & Scientific Computing
 
-A navigator for computational-chemistry research: unified resource search, a resource relationship network, a 20-chapter bilingual handbook, database catalog, journal submission guides, a comparison of 27 scientific foundation models, an AI lab, a preprint radar, a playground with a browser-based quantum-chemistry calculator, and Windows/macOS desktop apps.
+A navigator for computational-chemistry research: unified search over 2,600+ resources, a resource relationship network, a 20-chapter bilingual handbook, 189 teaching videos, a database catalog, journal submission guides, a comparison of 27 scientific foundation models, 15 machine-learning interatomic potentials you can run online, an AI lab, a preprint radar across 28 servers, and Windows/macOS desktop apps.
 
-计算化学研究导航：资源搜索、资源关系网、20 章中英双语讲解手册、数据库目录、期刊投稿指南、27 个科学大模型对比、AI 实验室、预印本雷达、浏览器里的量子化学计算器，以及 Win/Mac 桌面版。
+Around the chemistry: the **Quantum Carnival** (quantum physics, quantum computers, quantum algorithms, quantum biology), the **Realms of Physics** map, *Advancing Fundamental Science* with a mathematics module, a China–US research atlas, and a playground of fourteen games with an in-browser quantum-chemistry calculator. For programs there is an **open data API** (bilingual static JSON, CC BY 4.0) and a **compute API** with API keys.
 
-Source: [FelixJiashengFu/chem-research-molastria](https://github.com/FelixJiashengFu/chem-research-molastria)
+计算化学研究导航：2,600 多条资源的统一搜索、资源关系网、20 章中英双语讲解手册、189 条教学视频、数据库目录、期刊投稿指南、27 个科学大模型对比、可以在线计算的 15 个机器学习原子间势、AI 实验室、28 个平台的预印本雷达，以及 Win/Mac 桌面版。
+
+化学之外：**量子嘉年华**（量子物理、量子计算机、量子算法、量子生物学四个展馆）、**物理疆界图**、进一步基础科学发现与数学基础、中美研究图谱，以及十四个小游戏和浏览器里的量子化学计算器。给程序用的有**开放数据接口**（中英双语静态 JSON，CC BY 4.0）和带 API key 的**计算接口**。
+
+Source: [FelixJiashengFu/chem-research-molastria](https://github.com/FelixJiashengFu/chem-research-molastria) · Open data: [molastria.com/api/](https://molastria.com/api/)
 
 MolAstria is currently our only public product.<br>
 目前对外的产品只有 MolAstria。
@@ -348,8 +352,8 @@ Not only to see the world, but to keep going deeper, until we see the structures
 
 | | Direction | 方向 | Status |
 | --- | --- | --- | --- |
-| 01 | **AI Application Development** — AI agents, LLM applications, multi-agent systems | AI 应用开发 | Partly in MolAstria (AI lab, AI assistant, chemdb-agent MCP server) |
-| 02 | **Intelligent Automation** — workflow automation, AI assistants, API integration | 智能自动化 | Used inside MolAstria (weekly data refresh, weekly digest); no external service yet |
+| 01 | **AI Application Development** — AI agents, LLM applications, multi-agent systems | AI 应用开发 | Partly in MolAstria (AI lab, AI assistant, chemdb-agent MCP server, `llms.txt` and OpenAPI for AI tools) |
+| 02 | **Intelligent Automation** — workflow automation, AI assistants, API integration | 智能自动化 | Used inside MolAstria (weekly data refresh, weekly digest); the public data API and compute API are its first outward-facing APIs |
 | 03 | **Data Science & Predictive Modeling** — analytics, statistical modeling, ML, prediction | 数据科学与预测建模 | Partly in MolAstria (merged catalog, network queries, ML potentials) |
 | 04 | **AI for Science & Computational Research** — computational & quantum chemistry, scientific ML, HPC | AI 科学研究与计算科学 | **Live** in MolAstria |
 
